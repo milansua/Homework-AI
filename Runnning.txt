@@ -1,0 +1,6 @@
+folder_path = r'C:\Users\13054\Dropbox\My PC (LAPTOP-LJK85NJQ)\Downloads\eel4810-dataset\eel4810-dataset\sub01'
+
+cd "C:\Users\13054\Dropbox\My PC (LAPTOP-LJK85NJQ)\Downloads\Hw2"
+python hw2.py
+python norm.py
+python sizes.py
